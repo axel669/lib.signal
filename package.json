@@ -1,0 +1,15 @@
+{
+  "name": "@axel669/signal",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@labyrinthos/asuid": "^0.2.0"
+  }
+}
